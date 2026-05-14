@@ -1,0 +1,7 @@
+body {
+	hello welcome
+}
+
+footer {
+	thank you 
+}
